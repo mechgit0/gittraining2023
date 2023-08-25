@@ -1,3 +1,3 @@
 ## gittraining2023
 
-git taining porpose
+git taining center
